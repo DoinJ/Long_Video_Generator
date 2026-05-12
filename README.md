@@ -1,4 +1,4 @@
-# Long-video-generator (powered by SVI)
+# Long-video-generator
 
 Small local webpage to configure and launch `Stable-Video-Infinity/scripts/test/*.sh` equivalents.
 
