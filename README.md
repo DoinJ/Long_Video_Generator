@@ -2,8 +2,6 @@
 
 Small local webpage to configure and launch `Stable-Video-Infinity/scripts/test/*.sh` equivalents.
 
-Acknowledgment: This project is powered by Stable-Video-Infinity (SVI) from VITA-Group: https://github.com/vita-epfl/Stable-Video-Infinity
-
 ## Features
 
 - Script chooser for all test shell scripts under `../Stable-Video-Infinity/scripts/test/`
@@ -126,9 +124,14 @@ Open in browser:
 Use Python-like prompt files, for example:
 
 ```python
+
 prompts = [
     "A cat in a hat.",
     "The cat jumps onto the table."
 ]
 ```
 
+## Acknowledgment
+Stable-Video-Infinity (SVI): https://github.com/vita-epfl/Stable-Video-Infinity
+Wan2.2: https://github.com/Wan-Video/Wan2.2
+Qwen-Image-Edit-2511-Multiple-Angles-LoRA: https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA
