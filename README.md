@@ -1,6 +1,6 @@
 # Long-video-generator
 
-Small local webpage to configure and launch `Stable-Video-Infinity/scripts/test/*.sh` equivalents.
+This is a Customized Long-Video Generation Agent for HKUST COMP5421 Project.
 
 ## Features
 
