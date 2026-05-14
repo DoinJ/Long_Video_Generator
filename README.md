@@ -12,6 +12,7 @@ https://github.com/user-attachments/assets/5f646d7e-5767-4134-85e9-74d120e13b5f
 
 ## Features
 
+- Before use, pull required repos and models (Stable-Video-Infinity, Wan2.2, Qwen model/LoRA) into your local paths.
 - Script chooser for all test shell scripts under `../Stable-Video-Infinity/scripts/test/`
 - Primary run inputs for each run:
   - script template
@@ -140,6 +141,6 @@ prompts = [
 ```
 
 ## Acknowledgment
-Stable-Video-Infinity (SVI): https://github.com/vita-epfl/Stable-Video-Infinity
-Wan2.2: https://github.com/Wan-Video/Wan2.2
-Qwen-Image-Edit-2511-Multiple-Angles-LoRA: https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA
+- Stable-Video-Infinity (SVI): https://github.com/vita-epfl/Stable-Video-Infinity
+- Wan2.2: https://github.com/Wan-Video/Wan2.2
+- Qwen-Image-Edit-2511-Multiple-Angles-LoRA: https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA
