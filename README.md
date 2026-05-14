@@ -1,7 +1,7 @@
 # Long-video-generator
 
-This is a Customized Long-Video Generation Agent for HKUST COMP5421 Project.
-Here are 2 demo clips generated:
+Customized Long-Video Generation Agent for **HKUST COMP5421 Project**.
+Demo clips (2):
 
 https://github.com/user-attachments/assets/690deaf3-4a56-40c4-8d77-e0653663222f
 
